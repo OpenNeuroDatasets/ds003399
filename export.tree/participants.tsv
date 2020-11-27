@@ -1,7 +1,0 @@
-participant_id	sex	age	coverage	side	type iEEG	type surgery	lobe surgery	pathology	engel 1 year	aed
-RESP0521	M	18,0	CP	L	cECoG	Resection left parietal	P	scar tissue	1A	No
-RESP0724	M	15,0	TPO	R	cECoG	Resection right baso-temporo-occipital	TO	No abnormality	1A	No
-RESP0699	M	14,1	FCP	R	cECoG	Resection right frontal operculum	FC	FCD 2A	1A	No
-RESP0749	F	45,5	FT	R	SEEG	Right anterior temporal lobectomy including hippocampectomy	T	DNET	1A	No
-RESP0779	M	46,8	CP	R	SEEG	Resection rigth postcentral	CP	FCD 2, possibly 2A	1A	Yes
-RESP0800	F	14,7	TPO	L	SEEG	Resection left occipital	O	post-traumatic gliosis / mild MCD	1A	Yes
