@@ -1,5 +1,5 @@
 {
-    "Name": "RESPect_longterm",
+    "Name": "Dataset Clinical Epilepsy iEEG to BIDS - RESPect_longterm_iEEG",
     "BIDSVersion": "BEP010",
     "License": "CC0",
     "Authors": [
