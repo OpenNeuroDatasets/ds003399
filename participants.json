@@ -30,7 +30,7 @@
 			"R": "right"
 		}
 	},
-	"type IEEG": {
+	"type iEEG": {
 		"Description": "type of implantation",
 		"Levels": {
 			"aECOG": "acute electrocorticography",
@@ -38,7 +38,7 @@
 			"SEEG":  "stereo-encephalography "
 		}
 	},
-	"type of surgery": {
+	"type surgery": {
 		"Description": "type of surgery"
 	},
 	"lobe surgery": {
